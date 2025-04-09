@@ -89,7 +89,7 @@ function golib(){
     }
     else if(!arr2.includes("")){
             statustext.textContent = `Durrang!!!`
-            alert("Durrang!!!)
+           alert("Durrang!!!")
             run =false
     }
 
