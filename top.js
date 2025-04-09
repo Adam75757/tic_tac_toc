@@ -84,12 +84,12 @@ function golib(){
 
     if(round){
         statustext.textContent = `${xtop} yutdingiz!!!`
-        alter(`${xtop} yutdingiz`)
+        alert(`${xtop} yutdingiz`)
         run = false
     }
     else if(!arr2.includes("")){
             statustext.textContent = `Durrang!!!`
-            alter("Durrang!!!)
+            alert("Durrang!!!)
             run =false
     }
 
